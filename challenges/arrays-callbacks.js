@@ -86,6 +86,8 @@ console.log(consume("Mary", "Poppins", greeting)); // Hello Mary Poppins, nice t
 /*
 
 Stretch: If you haven't already, convert your array method callbacks into arrow functions.
+ 
+//  Array method callbacks are in arrow functions
 
 */
 
